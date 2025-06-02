@@ -6,9 +6,9 @@ This repo showcases my data projects using Excel, SQL, Power BI, R, and Python.
 
 ## 📁 Projects
 
-- [Excel + SQL + Power BI Project](./Excel-SQL-PowerBI-Project)
-- [Sales Dashboard 1 (Power BI)](./PowerBI-Dashboard-1)
-- [Kaggle: XGBoost Model](./Kaggle-XGBoost-Project)
-- [SQL Practice – HackerRank](./HackerRank-SQL-Practice)
-- [Research Project (R) – Summary Only](./R-Research-Project-1)
+- [SQL-PowerBI-Project](./SQL-PowerBI-Project)
+- [PowerBI-Dashboards](./PowerBI-Dashboards)
+- [Pizza-Sales-R-Analysis](./Pizza-Sales-R-Analysis)
+- [Data-Science-Model-Building](./Data-Science-Model-Building)
+- [Research-Publications-and-Posters (in R)](./Research-Publications-and-Posters)
 
